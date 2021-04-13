@@ -31,6 +31,7 @@ INSERT INTO `mydb`.`Classes` (`ClassID`, `CourseName`, `Professor`, `Time`, `Off
 INSERT INTO `mydb`.`Classes` (`ClassID`, `CourseName`, `Professor`, `Time`, `Offered`, `CourseDetail`) VALUES ('CSC 490', 'Internship', 'N/A', 'Independent Study', 'Fall/Spring', 'CS Elective');
 INSERT INTO `mydb`.`Classes` (`ClassID`, `CourseName`, `Professor`, `Time`, `Offered`, `CourseDetail`) VALUES ('CSC 493', 'Honors Research', 'George Grevera', 'Independent Study', 'Fall/Spring', 'CS Elective');
 
+-hi
 
 
 
